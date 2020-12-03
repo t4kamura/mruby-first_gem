@@ -1,0 +1,7 @@
+name: mruby-first_gem
+description: FirstGem class
+author: mruby-first_gem developers
+website: https://github.com/takamura/mruby-first_gem
+protocol: git
+repository: https://github.com/takamura/mruby-first_gem.git
+license: MIT
